@@ -1,0 +1,31 @@
+name: Generate issue preview
+
+on:
+  issues:
+    types: [edited, labeled, unlabeled, closed]
+
+jobs:
+  generateIssuePreview:
+    runs-on: macos-latest
+    if: github.event.issue.user.login == github.repository_owner && github.event.issue.state == 'closed'
+    steps:
+      - name: Check-out
+        uses: actions/checkout@master
+      - name: Write File
+        uses: DamianReeves/write-file-action@v1.0
+        with:
+          path: issue.json
+          contents: ${{ toJSON(github.event.issue) }}
+          write-mode: overwrite
+
+      - name: Run issuepreview tool
+        run: |
+          swift run issuepreview --issue issue.json
+
+      - name: Commit & Push
+        uses: Andro999b/push@v1.3
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          branch: main
+          force: true
+          message: 'Overwritten by Github Actions - ${date}'
