@@ -12,14 +12,24 @@ let package = Package(
         .executable(
             name: "issuepreview",
             targets: ["IssuePreviewGenerator"]
-        )
+        ),
+        .executable(
+            name: "feedparser",
+            targets: ["FeedParser"]
+        ),
     ],
     dependencies: [
-        .package(url: "https://github.com/apple/swift-argument-parser.git", .exact("1.2.3"))
+        .package(url: "https://github.com/apple/swift-argument-parser", from: "1.5.0"),
     ],
     targets: [
         .executableTarget(
             name: "IssuePreviewGenerator",
+            dependencies: [
+                .product(name: "ArgumentParser", package: "swift-argument-parser")
+            ]
+        ),
+        .executableTarget(
+            name: "FeedParser",
             dependencies: [
                 .product(name: "ArgumentParser", package: "swift-argument-parser")
             ]
