@@ -20,7 +20,6 @@ struct MarkdownGen {
 
         Feel free to [reach me](mailto:info.ioscoffeebreak@gmail.com) out for a coffee ☕
 
-        Have a nice day,
         ~Tiago, iOS Coffee Break.
         """
     }

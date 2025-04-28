@@ -18,5 +18,4 @@ This repository holds the issue blogging engine I have built for my [iOS Coffee 
 
 Feel free to [reach me](mailto:info.ioscoffeebreak@gmail.com) out for a coffee ☕
 
-Have a nice day,
 ~Tiago, iOS Coffee Break.
