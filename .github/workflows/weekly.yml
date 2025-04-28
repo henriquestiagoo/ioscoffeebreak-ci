@@ -3,7 +3,7 @@ name: Fetch latest newsletter issues and update the README.md
 on:
   push:
   schedule:
-    - cron: "0 0 * * 2" # At 00:00 on Tuesday.
+    - cron: "0 0 * * 2" # At 00:00 every Tuesday.
 
 jobs:
   build:
