@@ -5,6 +5,7 @@ Hi! 👋
 This repository holds the issue blogging engine I have built for my [iOS Coffee Break Newsletter](https://www.ioscoffeebreak.com).
 
 ## Latest issues in my [newsletter](https://www.ioscoffeebreak.com)
+* [Issue #51: ✍️ Keeping My README Up-to-Date with a Swift CLI Tool and GitHub Actions 👌](https://www.ioscoffeebreak.com/issue/issue51)
 * [Issue #50: ⬆️ Top WWDC Reads from the iOS Community 📖](https://www.ioscoffeebreak.com/issue/issue50)
 * [Issue #49: 🫣 Am I too late to share my thoughts on WWDC 2025? 👨‍💻](https://www.ioscoffeebreak.com/issue/issue49)
 * [Issue #48: 👨‍🚀 Launching the App to the App Store 🚀](https://www.ioscoffeebreak.com/issue/issue48)
@@ -14,7 +15,6 @@ This repository holds the issue blogging engine I have built for my [iOS Coffee 
 * [Issue #44: 👨‍🚀 Setting Up and Sending Remote Push Notifications 🔔](https://www.ioscoffeebreak.com/issue/issue44)
 * [Issue #43: 👨‍🏭 Implementing the Issues Detail View 🦫](https://www.ioscoffeebreak.com/issue/issue43)
 * [Issue #42: 👫 Leveraging Social Platforms to Grow the Newsletter ⬆️](https://www.ioscoffeebreak.com/issue/issue42)
-* [Issue #41: 👋 Introducing Unit Tests with Swift Testing 🧪](https://www.ioscoffeebreak.com/issue/issue41)
 
 Feel free to [reach me](mailto:info.ioscoffeebreak@gmail.com) out for a coffee ☕
 
