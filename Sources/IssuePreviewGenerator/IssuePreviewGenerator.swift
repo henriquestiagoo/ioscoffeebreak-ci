@@ -16,8 +16,8 @@ struct issuepreview: AsyncParsableCommand {
     @MainActor mutating func run() async throws {
         let manager = FileManager.default
         let colors = [
-            Color(#colorLiteral(red: 229/255, green: 159/255, blue: 75/255, alpha: 1)),
-            Color(#colorLiteral(red: 166/255, green: 85/255, blue: 28/255, alpha: 1))
+            Color(#colorLiteral(red: 155/255, green: 70/255, blue: 70/255, alpha: 1)),
+            Color(#colorLiteral(red: 81/255, green: 28/255, blue: 28/255, alpha: 1))
         ]
         let foreground = Color.white
         let date = Date()
