@@ -5,6 +5,7 @@ Hi! 👋
 This repository holds the issue blogging engine I have built for my [iOS Coffee Break Newsletter](https://www.ioscoffeebreak.com).
 
 ## Latest issues in my [newsletter](https://www.ioscoffeebreak.com)
+* [Issue #70: Pixels & People](https://www.ioscoffeebreak.com/issue/issue70)
 * [Issue #69: 👋 What's New in the Community 🙆‍♂️](https://www.ioscoffeebreak.com/issue/issue69)
 * [Issue #68: ✅ Part 4 of Start building with Rive for iOS](https://www.ioscoffeebreak.com/issue/issue68)
 * [Issue #67: ✅ Part 3 of Start building with Rive for iOS](https://www.ioscoffeebreak.com/issue/issue67)
@@ -14,7 +15,6 @@ This repository holds the issue blogging engine I have built for my [iOS Coffee 
 * [Issue #63: 🩺 Analysing and Removing Hangs in iOS Apps 🧞‍♂️](https://www.ioscoffeebreak.com/issue/issue63)
 * [Issue #62: 👮‍♂️ Identifying Hangs in iOS Apps 😰](https://www.ioscoffeebreak.com/issue/issue62)
 * [Issue #61: 🎃 Happy Halloween, iOS creators! 👻](https://www.ioscoffeebreak.com/issue/issue61)
-* [Issue #60: 👋 In Case You Missed It (Community Edition) 🙆‍♂️](https://www.ioscoffeebreak.com/issue/issue60)
 
 Feel free to [reach me](mailto:info.ioscoffeebreak@gmail.com) out for a coffee ☕
 
