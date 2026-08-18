@@ -5,6 +5,7 @@ Hi! 👋
 This repository holds the issue blogging engine I have built for my [iOS Coffee Break Newsletter](https://www.ioscoffeebreak.com).
 
 ## Latest issues in my [newsletter](https://www.ioscoffeebreak.com)
+* [Issue #76: Building My First On-Device AI Feature with Foundation Models](https://www.ioscoffeebreak.com/issue/issue76)
 * [Issue #75: Agents, SwiftUI & Better Tooling](https://www.ioscoffeebreak.com/issue/issue75)
 * [Issue #74: The WWDC26 Sessions I Found Most Useful](https://www.ioscoffeebreak.com/issue/issue74)
 * [Issue #73: My First Developer Notes from WWDC26](https://www.ioscoffeebreak.com/issue/issue73)
@@ -14,7 +15,6 @@ This repository holds the issue blogging engine I have built for my [iOS Coffee 
 * [Issue #69: 👋 What's New in the Community 🙆‍♂️](https://www.ioscoffeebreak.com/issue/issue69)
 * [Issue #68: ✅ Part 4 of Start building with Rive for iOS](https://www.ioscoffeebreak.com/issue/issue68)
 * [Issue #67: ✅ Part 3 of Start building with Rive for iOS](https://www.ioscoffeebreak.com/issue/issue67)
-* [Issue #66: ✅ Part 2 of Start building with Rive for iOS](https://www.ioscoffeebreak.com/issue/issue66)
 
 Feel free to [reach me](mailto:info.ioscoffeebreak@gmail.com) out for a coffee ☕
 
