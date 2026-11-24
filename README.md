@@ -5,6 +5,7 @@ Hi! 👋
 This repository holds the issue blogging engine I have built for my [iOS Coffee Break Newsletter](https://www.ioscoffeebreak.com).
 
 ## Latest issues in my [newsletter](https://www.ioscoffeebreak.com)
+* [Issue #81: AI, Understanding & Accountability](https://www.ioscoffeebreak.com/issue/issue81)
 * [Issue #80: AI, Agents & Human Judgment](https://www.ioscoffeebreak.com/issue/issue80)
 * [Issue #79: Comparing On-Device and Private Cloud Compute Summaries](https://www.ioscoffeebreak.com/issue/issue79)
 * [Issue #78: Sending Long Issues Through Private Cloud Compute](https://www.ioscoffeebreak.com/issue/issue78)
@@ -14,7 +15,6 @@ This repository holds the issue blogging engine I have built for my [iOS Coffee 
 * [Issue #74: The WWDC26 Sessions I Found Most Useful](https://www.ioscoffeebreak.com/issue/issue74)
 * [Issue #73: My First Developer Notes from WWDC26](https://www.ioscoffeebreak.com/issue/issue73)
 * [Issue #72: A Recipe to Custom Instructions for GitHub Copilot](https://www.ioscoffeebreak.com/issue/issue72)
-* [Issue #71: What One Week with GitHub Copilot Taught Me](https://www.ioscoffeebreak.com/issue/issue71)
 
 Feel free to [reach me](mailto:info.ioscoffeebreak@gmail.com) out for a coffee ☕
 
